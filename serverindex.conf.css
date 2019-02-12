@@ -1,0 +1,35 @@
+/*File di configurazione del comando serverindex
+E' un normale foglio di stile CSS che definisce 
+BODY, TITOLO h1, SOTTOTITOLO h3, IMMAGINE, TESTO p*/
+
+
+body {
+ background: White;
+ color: black;
+ font: 30px monospace, courier;
+}
+/* Stili per i titoli h1 */
+h1 {
+text-align: center; 
+color: Blue;
+ 
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+/* Colore del testo delle liste */
+h3 {
+text-align: center;
+color: Tomato;
+font: 24px monospace, courier;}
+/* Colore dei titoli h1 per la stampa */
+p {
+text-align: justify;
+color: black;
+font: 18px Helvetica, Arial, sans-serif;}
+ 
+}
